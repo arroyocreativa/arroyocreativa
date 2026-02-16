@@ -1,3 +1,3 @@
 <a href="https://jcarroyos.art/">
-<img width="1939" height="1042" alt="intro" src="https://github.com/user-attachments/assets/dc1638a4-bcf9-4929-a0ff-1f4432785647" />
+<img width="2169" height="1310" alt="intro" src="https://github.com/user-attachments/assets/5041e246-7d85-4c60-834f-3a2082110023" />
 </a>
